@@ -1,0 +1,20 @@
+.navbar-brand{
+    font-size: 40px;
+}
+
+.navbar-nav{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 4px 16px;
+}
+
+.nav-item{
+    padding-right: 15px;
+}
+
+.nav-btn{
+    background-color: #030b82;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 28px;
+}

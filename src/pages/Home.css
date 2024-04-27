@@ -1,0 +1,16 @@
+.left-child{
+    background: linear-gradient(to right, #160042, #753a88);
+    padding: 40px;
+    border-radius: 25px;
+}
+
+.home-btn{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+}
+
+.right-child img{
+    width: 150px;
+    height: 150px;
+}
