@@ -1,0 +1,9 @@
+.top-div{
+    height: 150px;
+    background: linear-gradient(180deg,#cc2b5e,#753a88);
+    width: 100%;
+}
+
+.project-buttons{
+    width: 150px;
+}
